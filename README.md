@@ -11,12 +11,10 @@ The purpose of this project is to properly analyze and document the system befor
 - Demo Video of the System
 
 ## Demo
-Watch the demo video here:  
-(Replace this with your video link)
+Watch the demo video 
 
 ## Tools Used
 - Microsoft Word (Documentation)
-- Any modeling/tools used (if applicable)
-
+- Figma
 ## Author
 Bakhtawar Fatima
